@@ -38,4 +38,12 @@
 # Tech Stack Used 
 **SVM , Random Forest , Decision Tree , Kaggle Environment , ISRO Weather and Soil Dataset , Tomato Leave Disease dataset , Bootstrap , HTML , CSS , JS , Node.js and other frameworks** 
 
+# Soil Parameter Threshold
+![soil parameters thresholds ](https://github.com/Deepakshandilya/Kheti-Mitra/assets/103075634/7ad14c79-3396-4e2c-ad79-750107191e85)
+
+# Dependencies of Inter Parameters 
+![Dependencies of inter parameters](https://github.com/Deepakshandilya/Kheti-Mitra/assets/103075634/eeff42ff-d054-4a73-a6b2-5620172fddda)
+
+# Model Final Accuracy = 99.8%
+![accuracy](https://github.com/Deepakshandilya/Kheti-Mitra/assets/103075634/4f5b8534-d31b-46d6-9e8d-8837f8cd04f8)
 
