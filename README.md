@@ -1,5 +1,5 @@
 # Kheti-Mitra
-# Click to open website --> https://kheti-mitra-cu.netlify.app/
+### Click to open website --> https://kheti-mitra-cu.netlify.app/
 ![Screenshot 2023-09-15 095112](https://github.com/Deepakshandilya/Kheti-Mitra/assets/103075634/43d36ab5-94a5-4254-98f5-83c01f632cae)
 
 
