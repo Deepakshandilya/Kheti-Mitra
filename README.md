@@ -3,7 +3,7 @@
 
 ### Click to open Model     --> https://www.kaggle.com/code/deepakshandilyaa/kheti-mitra-aiml-model-final/notebook
 
-### Click to open tutiorial --> https://drive.google.com/file/d/1siUmPHHIXjJvHZic4H_Qy0isSkwf7iB_/view?usp=sharing
+### Click to open tutorial --> https://drive.google.com/file/d/1siUmPHHIXjJvHZic4H_Qy0isSkwf7iB_/view?usp=sharing
 ![Screenshot 2023-09-15 095112](https://github.com/Deepakshandilya/Kheti-Mitra/assets/103075634/43d36ab5-94a5-4254-98f5-83c01f632cae)
 
 
