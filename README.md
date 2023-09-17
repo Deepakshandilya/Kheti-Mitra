@@ -42,7 +42,7 @@
 # Tech Stack Used 
 **SVM , Random Forest , Decision Tree , Kaggle Environment , ISRO Weather and Soil Dataset , Tomato Leave Disease dataset , Bootstrap , HTML , CSS , JS , Node.js and other frameworks** 
 
-# Soil Parameter Threshold
+# Soil Parameter Threshold 
 ![soil parameters thresholds ](https://github.com/Deepakshandilya/Kheti-Mitra/assets/103075634/7ad14c79-3396-4e2c-ad79-750107191e85)
 
 # Dependencies of Inter Parameters 
