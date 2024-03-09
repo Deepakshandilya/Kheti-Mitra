@@ -41,7 +41,7 @@ It aims to revolutionize farming practices and enhance the overall well-being of
 • Dynamic Learning: AI adapts to evolving conditions.
 
 # Tech Stack Used 
-**SVM , Random Forest , Decision Tree , Kaggle Environment , ISRO Weather and Soil Dataset , Tomato Leave Disease dataset , Bootstrap , HTML , CSS , JS , Node.js and other frameworks** 
+**SVM , Random Forest , Decision Tree , Kaggle Environment , ISRO Weather and Soil Dataset , Tomato Leave Disease dataset , Bootstrap , HTML , CSS , JS , Node.js and other frameworks.** 
 
 # Soil Parameter Threshold 
 ![soil parameters thresholds ](https://github.com/Deepakshandilya/Kheti-Mitra/assets/103075634/7ad14c79-3396-4e2c-ad79-750107191e85)
