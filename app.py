@@ -26,4 +26,5 @@ def predict():
     # Return prediction as JSON response
     return jsonify({'output': crops[int(prediction[0])]})
 
-
+if __name__ == '__main__':
+    app.run(debug=True)
