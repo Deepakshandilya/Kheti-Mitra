@@ -43,9 +43,12 @@
             border-radius: 4px;
             cursor: pointer;
             width: 100%;
+            font-size: 18px;
+            transition: all 0.3s ease;
         }
         input[type="submit"]:hover {
             background-color: #45a049;
+            transform: scale(1.1);
         }
         #outputBox {
             margin-top: 20px;
@@ -58,6 +61,27 @@
             font-size: 18px;
             color: #333333;
             text-align: center;
+        }
+        .research-button {
+            text-align: center;
+            margin-top: 20px;
+        }
+        .research-button a {
+            text-decoration: none;
+        }
+        .research-button button {
+            background-color: #007bff;
+            color: white;
+            padding: 20px 30px;
+            border: none;
+            border-radius: 10px;
+            font-size: 20px;
+            cursor: pointer;
+            transition: all 0.3s ease;
+        }
+        .research-button button:hover {
+            background-color: #0056b3;
+            transform: scale(1.1);
         }
     </style>
 </head>
@@ -95,6 +119,11 @@
 <!-- Output message box -->
 <div id="outputBox">
     <p id="outputText"></p>
+</div>
+
+<!-- Button linking to research page -->
+<div class="research-button">
+    <a href="https://www.kaggle.com/code/deepakshandilyaa/kheti-mitra-aiml-model-final/notebook" target="_blank"><button>Research Page</button></a>
 </div>
 
 <script>
