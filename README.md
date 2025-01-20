@@ -10,6 +10,28 @@
 "KhetiMitra" is a comprehensive solution that integrates real-time data, AI-driven insights, and user-friendly platforms to empower farmers. It effectively addresses challenges posed by shifting weather patterns, limited seed knowledge, and low tech adoption, fostering sustainability and resilience in agriculture.
 It aims to revolutionize farming practices and enhance the overall well-being of farmers.
 
+# Output Images
+
+### Landing Page
+![Landing Page](https://github.com/Python0p/Kheti-Mitra/blob/main/Websiste%20Code%20(Kheti%20Mitra)/img/Kheti-Mitra-Index.png)
+
+### Dashboard
+![Dashboard](https://github.com/Python0p/Kheti-Mitra/blob/main/Websiste%20Code%20(Kheti%20Mitra)/img/Kheti-Mitra-Dashbord.png)
+
+### Policies
+![Policies](https://github.com/Python0p/Kheti-Mitra/blob/main/Websiste%20Code%20(Kheti%20Mitra)/img/Kheti-Mitra-Policies.png)
+
+### Soil Index Info
+![Soil Index Info](https://github.com/Python0p/Kheti-Mitra/blob/main/Websiste%20Code%20(Kheti%20Mitra)/img/Kheti-Mitra-SoilIndex.png)
+
+### Prediction Form
+![Prediction Form](https://github.com/Python0p/Kheti-Mitra/blob/main/Websiste%20Code%20(Kheti%20Mitra)/img/Kheti-Mitra-Prediction-Form.png)
+
+### Prediction Result
+![Prediction Result](https://github.com/Python0p/Kheti-Mitra/blob/main/Websiste%20Code%20(Kheti%20Mitra)/img/Kheti-Mitra-FinalOutput.png)
+
+
+
 # Solution
 
 ➢*Kheti Mitra* empowers farmers with modern technology.
