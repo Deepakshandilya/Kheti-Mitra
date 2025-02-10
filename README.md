@@ -1,6 +1,4 @@
 # Kheti-Mitra
-### Click to open website   --> https://kheti-mitra-cu.netlify.app/
-
 ### Click to open Model     --> https://www.kaggle.com/code/deepakshandilyaa/kheti-mitra-aiml-model-final/notebook
 
 ### Click to open tutorial --> https://drive.google.com/file/d/1siUmPHHIXjJvHZic4H_Qy0isSkwf7iB_/view?usp=sharing
