@@ -10,12 +10,6 @@ It aims to revolutionize farming practices and enhance the overall well-being of
 
 # Output Images
 
-### Landing Page
-![Landing Page](https://github.com/Python0p/Kheti-Mitra/blob/main/Websiste%20Code%20(Kheti%20Mitra)/img/Kheti-Mitra-Index.png)
-
-### Dashboard
-![Dashboard](https://github.com/Python0p/Kheti-Mitra/blob/main/Websiste%20Code%20(Kheti%20Mitra)/img/Kheti-Mitra-Dashbord.png)
-
 ### Policies
 ![Policies](https://github.com/Python0p/Kheti-Mitra/blob/main/Websiste%20Code%20(Kheti%20Mitra)/img/Kheti-Mitra-Policies.png)
 
