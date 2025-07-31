@@ -10,12 +10,6 @@ It aims to revolutionize farming practices and enhance the overall well-being of
 
 # Output Images
 
-### Policies
-![Policies](https://github.com/Python0p/Kheti-Mitra/blob/main/Websiste%20Code%20(Kheti%20Mitra)/img/Kheti-Mitra-Policies.png)
-
-### Soil Index Info
-![Soil Index Info](https://github.com/Python0p/Kheti-Mitra/blob/main/Websiste%20Code%20(Kheti%20Mitra)/img/Kheti-Mitra-SoilIndex.png)
-
 ### Prediction Form
 ![Prediction Form](https://github.com/Python0p/Kheti-Mitra/blob/main/Websiste%20Code%20(Kheti%20Mitra)/img/Kheti-Mitra-Prediction-Form.png)
 
